@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>🚀 Azure Data Engineer | Data & Cloud Solutions Architect | ETL & Big Data Expert<br><br>🔹 Building scalable data pipelines & cloud-native solutions using Azure Data Factory, Databricks, Synapse, ADLS & SQL<br>🔹 Automating ETL workflows & optimizing big data processing with PySpark & SQL<br>🔹 Specializing in performance tuning, data modeling, and real-time analytics<br>🔹 Passionate about Data Engineering, Cloud Solutions & Workflow Automation<br><br>💡 Ask me about: Cloud Data Engineering, Performance Optimization, or Automating Workflows!
+🚀 Azure Data Engineer | Data & Cloud Solutions Architect | ETL & Big Data Expert<br><br>🔹 Building scalable data pipelines & cloud-native solutions using Azure Data Factory, Databricks, Synapse, ADLS & SQL<br>🔹 Automating ETL workflows & optimizing big data processing with PySpark & SQL<br>🔹 Specializing in performance tuning, data modeling, and real-time analytics<br>🔹 Passionate about Data Engineering, Cloud Solutions & Workflow Automation<br><br>💡 Ask me about: Cloud Data Engineering, Performance Optimization, or Automating Workflows!
 
 
 ## 🌐 Socials:
